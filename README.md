@@ -1,4 +1,6 @@
 # MyCourseraExploratoryDataAnalysis
+I originally completed this assignment in the July 2015 presentation of this course, but I had to drop the course in the last 1-2 weeks because of work-life requirements. The assignment hasn't changed so that's why I'm resubmitting the same work except for a few minor changes and this note in the ReadMe. It explains why you see July 2015 throughout rather than August 2015. Thanks for understanding!
+
 Introduction
 
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
